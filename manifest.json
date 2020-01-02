@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Mini Alc",
-  "description": "Performs a mini search of selected text in Alc's Japanese-English phrase database",
+  "description": "Performs a mini search of selected text in Alc's Japanese-English phrase database when icon is clicked.",
   "version": "0.1",
 
   "permissions": [
